@@ -13,7 +13,7 @@ public class ContohTipeData29 {
 
         System.out.println("Golongan darah\t\t\t\t\t\t\t: " + (byte) golonganDarah);
         System.out.println("Jarak\t\t\t\t\t\t\t\t: " + jarak);
-        System.out.println("Jumlah penduduk dalam satu dusun\t\t\t: " + jumlahPendudukDalamSatuDusun);
+        System.out.println("Jumlah penduduk dalam satu dusun\t\t\t\t: " + jumlahPendudukDalamSatuDusun);
         System.out.println("Suhu\t\t\t\t\t\t\t\t: " + suhu);
         System.out.println("Berat\t\t\t\t\t\t\t\t: " + berat);
         System.out.println("Saldo\t\t\t\t\t\t\t\t: " + saldo);
