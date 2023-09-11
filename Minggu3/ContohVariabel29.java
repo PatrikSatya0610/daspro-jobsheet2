@@ -3,10 +3,10 @@ package Minggu3;
 public class ContohVariabel29 {
     public static void main(String []args){
 
-        String Salah Satu Hoby Saya Adalah = "Bermain petak umpet";
+        String salahSatuHobySayaAdalah = "Bermain petak umpet";
         boolean ispandai = true;
         char jeniskelamin = 'L';
-        byte umursekarang = 20;
+        byte umurSayaSekarang = 20;
         double $ipk = 3.24, tinggi = 1.78;
 
         System.out.println("Salah Satu Hoby Saya Adalah");
