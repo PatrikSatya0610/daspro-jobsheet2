@@ -2,7 +2,7 @@ package Minggu3;
 
 import java.util.Scanner;
 
-public class Latihan29 {
+public class Latihan23 {
     public static void main(String[] args) {
         Scanner sc = new Scanner (System.in);
 

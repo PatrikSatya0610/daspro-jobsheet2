@@ -2,7 +2,7 @@ package Minggu3;
 
 import java.util.Scanner;
 
-public class Bank29 {
+public class Bank23 {
     private static final String jml_tabungan_akhir = null;
 
     public static void main(String[] args) {

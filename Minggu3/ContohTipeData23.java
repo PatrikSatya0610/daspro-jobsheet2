@@ -1,6 +1,6 @@
 package Minggu3;
 
-public class ContohTipeData29 {
+public class ContohTipeData23 {
     public static void main(String []args){
         char golongandarah = 'A';
         byte jarak = (byte) 130;

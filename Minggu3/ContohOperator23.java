@@ -1,6 +1,6 @@
 package Minggu3;
 
-public class ContohOperator29 {
+public class ContohOperator23 {
     public static void main(String []args){
          int x = 10;
          System.out.println("x++ = " + x++);

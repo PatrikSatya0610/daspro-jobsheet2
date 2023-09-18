@@ -2,7 +2,7 @@ package Minggu3;
 
 import java.util.Scanner;
 
-public class Segitiga29 {
+public class Segitiga23 {
     public static void main(String[] args) {
         try (Scanner sc = new Scanner(System.in)) {
             
