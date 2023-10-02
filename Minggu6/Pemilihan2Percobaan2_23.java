@@ -4,15 +4,15 @@ import java.util.Scanner;
 
 public class Pemilihan2Percobaan2_23 {
     public static void main(String[] args) {
-        Scanner input17 = new Scanner(System.in);
+        Scanner input23 = new Scanner(System.in);
         int totalSudut;
 
         System.out.println("Masukkan Sudut 1");
-        int sudut1 = input17.nextInt();
+        int sudut1 = input23.nextInt();
         System.out.println("Masukkan Sudut 2");
-        int sudut2 = input17.nextInt();
+        int sudut2 = input23.nextInt();
         System.out.println("Masukkan Sudut 3");
-        int sudut3 = input17.nextInt();
+        int sudut3 = input23.nextInt();
 
         totalSudut = sudut1 + sudut2 + sudut3;
 
