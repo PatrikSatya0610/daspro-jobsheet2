@@ -1,4 +1,4 @@
-package Minggu10;
+package Minggu11;
 import java.util.Scanner;
 import java.util.Random;
 

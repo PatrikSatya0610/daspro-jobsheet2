@@ -1,4 +1,4 @@
-package Minggu8;
+package Minggu9;
 
 public class ArrayBilangan23 {
     public static void main(String[] args) {

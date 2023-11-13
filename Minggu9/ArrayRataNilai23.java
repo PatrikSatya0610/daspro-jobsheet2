@@ -1,4 +1,4 @@
-package Minggu8;
+package Minggu9;
 import java.util.Scanner;
 
 public class ArrayRataNilai23 {
