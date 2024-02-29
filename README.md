@@ -1,5 +1,5 @@
-# Dasar Pemograman - SM1
+# Kuliah Harus Semangat yaakk
 
-Untuk Semua Tugas SM 1
+Untuk Semua TugasKuliah
 
 Semangaattt!!!!! 
