@@ -1,4 +1,4 @@
-package SM2.Minggu3;
+package SM2.Minggu3.persegiPanjang;
 import java.util.Scanner;
 public class ArrayObject {
     public static void main(String[] args) {
